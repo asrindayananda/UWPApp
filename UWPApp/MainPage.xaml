@@ -9,6 +9,8 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
+        <Button Content="Speak Now" HorizontalAlignment="Left" Margin="201,317,0,0" VerticalAlignment="Top" Height="80" Width="170" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Left" Margin="208,246,0,0" Text="Windows Speak" VerticalAlignment="Top" Height="48" Width="156"/>
 
     </Grid>
 </Page>
